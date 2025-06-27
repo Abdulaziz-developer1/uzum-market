@@ -8,7 +8,7 @@ A web project for Uzum Market, created using HTML and CSS with media elements.
 
 ## ✨ Features
 
-- **Pure HTML & CSS:** No JavaScript or external libraries required.
+- **Pure HTML & CSS:** No JavaScript or other libraries required.
 - **Responsive Layout:** Designed to adapt to different screen sizes via CSS media queries.
 - **Media Elements:** Incorporates images and other media content for a visually rich experience.
 - **Easy Customization:** Modify content and styles quickly to suit your needs.
